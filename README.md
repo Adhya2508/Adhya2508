@@ -37,24 +37,71 @@ from RAG pipelines and semantic search engines to full-stack cloud-native apps.
 <br>
 
 <!-- ============ CONNECT ============ -->
-<h2 align="left">🤝 Connect with me</h2>
-<p align="left">
-<a href="mailto:adhyasharma250805@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="email" height="35" width="35" /></a>
-<a href="https://linkedin.com/in/adhya-sharma-94903528b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://github.com/Adhya2508" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="30" style="background:white;border-radius:6px;padding:2px;" /></a>
-<img align="center" src="https://img.shields.io/badge/📞-7701901629-25D366?style=flat-square&labelColor=1A1A1A" alt="phone" />
+<div align="center">
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <!-- Gmail -->
+  <a href="mailto:adhyasharma250805@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png"
+         alt="Email"
+         height="40"
+         width="40"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/adhya-sharma-94903528b" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn"
+         height="35"
+         width="40"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- GitHub -->
+  <a href="https://github.com/Adhya2508" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"
+         alt="GitHub"
+         height="35"
+         width="35"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- Portfolio -->
+  <a href="https://adhya2508.github.io/portfolio/" target="_blank">
+    <img src="https://img.icons8.com/color/48/domain.png"
+         alt="Portfolio"
+         height="35"
+         width="35"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- Resume -->
+  <a href="https://drive.google.com/file/d/17YtuwWbcHADIq7kyXyIiQWIveTOvGd5u/view" target="_blank">
+    <img src="https://img.icons8.com/color/48/resume.png"
+         alt="Resume"
+         height="35"
+         width="35"/>
+  </a>
 </p>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/📞-7701901629-25D366?style=for-the-badge&labelColor=1A1A1A"
+       alt="Phone"/>
+</p>
+
+</div>
 
 <!-- ============ GITHUB STATS ============ -->
-<p align="center">
+<!-- <p align="center">
  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhya2508&hide_border=true&background=00000000&ring=E8A87C&fire=D68D64&currStreakLabel=D68D64&sideLabels=C97B4A&currStreakNum=C97B4A&sideNums=C97B4A&dates=C97B4A" width="48%" />
 </p>
 
 
-<br>
+<br> -->
 
 <!-- ============ SKILLS ============ -->
 <h2 align="center">🛠️ Languages & Tools</h2>
