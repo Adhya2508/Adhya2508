@@ -87,11 +87,6 @@ from RAG pipelines and semantic search engines to full-stack cloud-native apps.
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📞-7701901629-25D366?style=for-the-badge&labelColor=1A1A1A"
-       alt="Phone"/>
-</p>
-
 </div>
 
 <!-- ============ GITHUB STATS ============ -->
